@@ -2,7 +2,7 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> Olá, Sou o Arlisson!
 
 
-![Arlisson GitHub stats](https://github-readme-stats.vercel.app/api?username=arlissonc&show_icons=true&theme=dracula)
+![Arlisson GitHub stats](https://github-readme-stats.vercel.app/api?username=arlissonc&show_icons=true&theme=dark)
 
 
 ## Tecnologias e Ferramentas
