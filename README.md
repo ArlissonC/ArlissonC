@@ -4,7 +4,7 @@
 
 ![Arlisson GitHub stats](https://github-readme-stats.vercel.app/api?username=arlissonc&show_icons=true&theme=dark)
 
-<a href="https://www.linkedin.com/in/arlisson-costa-73457a220/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/arlissoncosta/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/arlissonxbr/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 
